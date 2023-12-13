@@ -1,22 +1,23 @@
 .header {
     margin: 0;
     padding: 0;
-    color: blue;
+    color: darkred;
     font-family: cursive;
     text-align: center;
 }
 
 .resources {
-    border: 5px solid lightpink;
+    border: 5px solid navy;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    font-size: 20px;
 }
 
 .link {
-    color: black;
+    color: lightslategray;
     text-decoration: none;
 }
-.link:hover {color:lightblue;
+.link:hover {color: darkcyan;
     text-decoration: underline;}
 
 .center {
