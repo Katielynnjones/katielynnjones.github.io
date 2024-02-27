@@ -14,7 +14,7 @@
 }
 
 .link {
-    color: lightslategray;
+    color: slategrey;
     text-decoration: none;
 }
 .link:hover {color: darkcyan;
@@ -30,12 +30,12 @@
     margin: 5px;
     color: black;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: small;
+    font-size: large;
   }
 
 
 .item3 { grid-area: main; font-family: 'Times New Roman', Times, serif;
-    font-size: x-small;}
+    font-size: medium;}
 .item4 { grid-area: right; }
 .item5 { grid-area: footer; }
 
